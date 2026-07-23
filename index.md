@@ -22,7 +22,7 @@ Basic interactive map of one of my favorite parks to take our dog:
 <embed type="text/html" src="/IMG/foxrun_map.html" height="650" width="850">
 
 Mean temperature data for COS from 2000 to 2005:
-<div align="center"><embed type="text/html" src="/IMG/COS_plot_v2.html" width="400" height="500"></div>
+<div align="center"><embed type="text/html" src="/IMG/COS_plot_daily.html" width="600" height="400"></div>
 
 ### Research Topics
 #### Land Use Land Cover Change Effects on Pollinators
