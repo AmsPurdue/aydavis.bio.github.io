@@ -18,8 +18,11 @@ I examine human-environment interactions from the perspectives of landscape ecol
 * Remote Pilot for sUAS (Small Unmanned Aircraft System) Certification #3984109, FAA (March 2017-2020)
 
 ### Some Favorite Maps
+Basic interactive map of one of my favorite parks to take our dog:
 <embed type="text/html" src="/IMG/foxrun_map.html" height="650" width="850">
-<embed type="text/html" src="/IMG/boulder_plot.html" width="600" height="600">
+
+Mean temperature data for COS from 2000 to 2005:
+<embed type="text/html" src="/IMG/COS_plot.html" width="600" height="600">
 
 ### Research Topics
 #### Land Use Land Cover Change Effects on Pollinators
